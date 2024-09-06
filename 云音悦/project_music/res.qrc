@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sty.qss</file>
+        <file>收藏.png</file>
+        <file>未收藏.png</file>
+        <file>听音乐.png</file>
+        <file>登录页背景.png</file>
+        <file>Minimiz-1.png</file>
+        <file>Minimize-2.png</file>
+        <file>播放.png</file>
+        <file>上一首.png</file>
+        <file>下一首.png</file>
+        <file>搜索1.png</file>
+        <file>搜索2.png</file>
+        <file>暂停.png</file>
+        <file>关闭窗口.png</file>
+        <file>关闭窗口2.png</file>
+        <file>静音.png</file>
+        <file>音量.png</file>
+        <file>播放列表.png</file>
+        <file>播放列表2.png</file>
+        <file>item_本地.png</file>
+        <file>item_桃心.png</file>
+        <file>音乐.png</file>
+        <file>音符.png</file>
+    </qresource>
+</RCC>

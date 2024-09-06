@@ -1,0 +1,9 @@
+
+QMainWindow{         /*类名*/
+    background-color:rgb(255, 85, 127); /*背景颜色（粉色）*/
+    border-radius: 10px;             /*四角圆角的直径*/
+    border-style:solid;             /*边框样式（实线）*/
+    border-width:2px;             /*边框宽度*/
+    border-color:rgb(213, 213, 213);     /*边框颜色*/
+}
+
